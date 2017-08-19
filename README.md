@@ -1,2 +1,2 @@
 # HelloHystrix
-hytrix学习
+hystrix学习
